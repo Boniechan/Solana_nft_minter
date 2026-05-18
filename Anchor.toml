@@ -1,0 +1,16 @@
+[features]
+seeds = false
+skip-lint = false
+
+[programs.localnet]
+solana_nft_minter = "Ei5xnaevxCDs637ztMBcvPvnAo1nZGdmtKAqQ7yGkNTN"
+
+[programs.testnet]
+solana_nft_minter = "Ei5xnaevxCDs637ztMBcvPvnAo1nZGdmtKAqQ7yGkNTN"
+
+[provider]
+cluster = "Testnet"
+wallet = "~/.config/solana/id.json"
+
+[scripts]
+test = "npm run test"

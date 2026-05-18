@@ -1,0 +1,11 @@
+node_modules
+dist
+.anchor
+target
+.DS_Store
+*.log
+app/node_modules
+app/dist
+.env
+app/.env
+
