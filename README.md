@@ -1,4 +1,4 @@
-# Solana NFT Minter
+# Solana NFT Minter _ not done yet
 
 This project gives you a full-stack Solana NFT minting starter:
 
